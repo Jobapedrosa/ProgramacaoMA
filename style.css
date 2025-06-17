@@ -1,41 +1,15 @@
-body{
-    background-color: darkslategray;
-    color: white;
-    text-align: center;
-    font-family: Roboto;
-}
 
-p{
-    font-size: 18px;
-}
+body {
+    background-color: #305050;
+    color: white ;
 
-h2{
-    color: rgb(205, 21, 110);
-    font-size: 50px;
 }
-
-header{
-    border-bottom: 1px solid gray;
+h2 {
+    color: orange;
 }
-
-footer{
-    border-top: 1px solid gray;
-    color: gray;
-}
-
-#nome-usuário{
-    font-weight: bold;
-}
-
-.texto-inglês{
+.texto-inglês {
     font-style: italic;
 }
-
-@media screen and (max-width:420px){
-    img{
-        width: 100%;
-    }
-    p{
-        font-size: 24px;
-    }
+#nome-usuario {
+    font-weight: bold;
 }
