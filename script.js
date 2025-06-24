@@ -4,3 +4,4 @@ function inserirNome () {
     elemento.textContent = nomeUsuario;
 
 }
+inserirNome ();
